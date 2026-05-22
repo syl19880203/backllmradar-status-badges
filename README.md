@@ -13,25 +13,17 @@ Use these badges in your GitHub README, developer docs, API gateway dashboards, 
 [![Groq API Status](https://backllmradar.com/api/v1/badge/groq.svg)](https://backllmradar.com/groq-api-status/)
 [![Mistral API Status](https://backllmradar.com/api/v1/badge/mistral.svg)](https://backllmradar.com/mistral-api-status/)
 
-## OpenAI
+### OpenAI
 
 ```markdown
 [![OpenAI API Status](https://backllmradar.com/api/v1/badge/openai.svg)](https://backllmradar.com/openai-api-status/)
+```
 
-Claude
+### Claude
+
+```markdown
 [![Claude API Status](https://backllmradar.com/api/v1/badge/anthropic.svg)](https://backllmradar.com/claude-api-status/)
-
-Gemini
-[![Gemini API Status](https://backllmradar.com/api/v1/badge/gemini.svg)](https://backllmradar.com/gemini-api-status/)
-
-DeepSeek
-[![DeepSeek API Status](https://backllmradar.com/api/v1/badge/deepseek.svg)](https://backllmradar.com/deepseek-api-status/)
-
-Groq
-[![Groq API Status](https://backllmradar.com/api/v1/badge/groq.svg)](https://backllmradar.com/groq-api-status/)
-
-Mistral
-[![Mistral API Status](https://backllmradar.com/api/v1/badge/mistral.svg)](https://backllmradar.com/mistral-api-status/)
+```
 
 ## More Tools
 
@@ -40,9 +32,7 @@ Mistral
 - AI Token Cost Calculator: https://backllmradar.com/calculator/
 - LLM API Cost Comparison: https://backllmradar.com/llm-api-cost-comparison/
 - GitHub README Badges: https://backllmradar.com/github-readme-badges/
-- All Resources: https://backllmradar.com/resources/adar.com/llm-api-cost-comparison/
-All Resources: https://backllmradar.com/resources/
-
+- All Resources: https://backllmradar.com/resources/
 ## What is Back LLM Radar?
 
 Back LLM Radar is a lightweight public monitoring and intelligence tool for AI API providers.
