@@ -33,18 +33,18 @@ Groq
 Mistral
 [![Mistral API Status](https://backllmradar.com/api/v1/badge/mistral.svg)](https://backllmradar.com/mistral-api-status/)
 
-## More Tools
+### More Tools
 AI API Status Monitor: https://backllmradar.com/status/
 AI API Latency Ranking: https://backllmradar.com/latency/
 AI Token Cost Calculator: https://backllmradar.com/calculator/
 LLM API Cost Comparison: https://backllmradar.com/llm-api-cost-comparison/
 All Resources: https://backllmradar.com/resources/
-## What is Back LLM Radar?
+### What is Back LLM Radar?
 
 Back LLM Radar is a lightweight public monitoring and intelligence tool for AI API providers.
 
 It tracks API status, reachability, latency, token cost references, and embeddable provider badges for developers building AI applications, gateways, agents, and dashboards.
 
-## Disclaimer
+### Disclaimer
 
 Status and pricing data are provided for reference and monitoring purposes. Always verify official provider pricing and service status before production billing, customer quotation, or operational decisions.
