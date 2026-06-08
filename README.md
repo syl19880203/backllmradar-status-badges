@@ -31,6 +31,13 @@ Use these badges in your GitHub README, developer docs, API gateway dashboards, 
 ```markdown
 [![Claude API Status](https://backllmradar.com/api/v1/badge/anthropic.svg)](https://backllmradar.com/claude-api-status/)
 ```
+### Gemini
+
+```markdown
+[![Gemini API Status](https://backllmradar.com/api/v1/badge/gemini.svg)](https://backllmradar.com/gemini-api-status/)
+
+### Deepseek
+[![DeepSeek API Status](https://backllmradar.com/api/v1/badge/deepseek.svg)](https://backllmradar.com/deepseek-api-status/)
 
 ## More Tools
 
