@@ -1,13 +1,15 @@
-[Website](https://backllmradar.com/) ·
-[README Badges](https://backllmradar.com/github-readme-badges/) ·
-[API Status](https://backllmradar.com/status/) ·
-[Latency Ranking](https://backllmradar.com/ai-api-latency-ranking/) ·
-[Token Cost Calculator](https://backllmradar.com/calculator/)
+
 # Back LLM Radar - AI API Status Badges
 
 Live AI API status badges for OpenAI, Claude, Gemini, DeepSeek, Groq and Mistral.
 
 Use these badges in your GitHub README, developer docs, API gateway dashboards, internal runbooks, or monitoring pages.
+
+[Website](https://backllmradar.com/) ·
+[README Badges](https://backllmradar.com/github-readme-badges/) ·
+[API Status](https://backllmradar.com/status/) ·
+[Latency Ranking](https://backllmradar.com/ai-api-latency-ranking/) ·
+[Token Cost Calculator](https://backllmradar.com/calculator/)
 
 ## Live Badges
 
