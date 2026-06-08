@@ -37,7 +37,16 @@ Use these badges in your GitHub README, developer docs, API gateway dashboards, 
 [![Gemini API Status](https://backllmradar.com/api/v1/badge/gemini.svg)](https://backllmradar.com/gemini-api-status/)
 
 ### Deepseek
+```markdown
 [![DeepSeek API Status](https://backllmradar.com/api/v1/badge/deepseek.svg)](https://backllmradar.com/deepseek-api-status/)
+
+### Groq
+```markdown
+[![Groq API Status](https://backllmradar.com/api/v1/badge/groq.svg)](https://backllmradar.com/groq-api-status/)
+
+### Mistral
+```markdown
+[![Mistral API Status](https://backllmradar.com/api/v1/badge/mistral.svg)](https://backllmradar.com/mistral-api-status/)
 
 ## More Tools
 
